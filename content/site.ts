@@ -14,7 +14,7 @@ export const site = {
   timezone: "GMT+1",
   email: "temmyanjous@gmail.com",
   // Used for SEO, the sitemap and social previews. Change when you buy your own domain.
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://anjoustemitayo.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://temitayoanjous.vercel.app",
   description:
     "Anjous Temitayo is a Product UI/UX Designer and Product Manager in Lagos, Nigeria, designing web and mobile products across fintech, retail, AI and media.",
   openTo: "Full-time roles, remote or on-site, and product projects",
